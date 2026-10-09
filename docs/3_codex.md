@@ -14,7 +14,7 @@ Each channel or thread keeps its own Codex session, so you can keep talking in t
 npm install -g @openai/codex   # Codex CLI
 codex login                    # sign in once
 
-git clone <this-repo-url> discord-agent-kit
+# get this repo (git clone, or unzip discord-agent-kit.zip)
 cd discord-agent-kit
 pip install -r codex/requirements.txt
 ```
