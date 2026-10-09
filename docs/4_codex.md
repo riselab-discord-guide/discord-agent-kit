@@ -28,7 +28,7 @@ nano codex/.env
 
 | Setting | What to put |
 |---|---|
-| `DISCORD_BOT_TOKEN` | The token from [step 2](2_bot_token.md) |
+| `DISCORD_BOT_TOKEN` | The token from [Step 2](../README.md#step-2-get-the-bot-token) |
 | `ALLOWED_USER_IDS` | Your Discord user ID. Only these people can use the bot. |
 | `CODEX_WORKDIR` | The folder Codex should work in |
 
