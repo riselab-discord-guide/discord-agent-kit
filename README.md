@@ -15,10 +15,13 @@ Why Discord?
 
 ## Setup (about 15 minutes)
 
-1. **[Create a Discord bot](docs/1_discord_bot.md).** You need one bot per agent.
-2. Connect an agent:
-   - **[Claude Code](docs/2_claude.md)**, using the official Discord plugin. You don't need any code from this repo.
-   - **[Codex](docs/3_codex.md)**, using the small bridge script in [`codex/bridge.py`](codex/bridge.py) (~80 lines).
+Each step has screenshots.
+
+1. **[Create a Discord bot](docs/1_discord_bot.md)** and add it to your server. You need one bot per agent.
+2. **[Get the bot token](docs/2_bot_token.md)** and your Discord user ID.
+3. Connect an agent:
+   - **[Claude Code](docs/3_claude.md)**, using the official Discord plugin. You don't need any code from this repo.
+   - **[Codex](docs/4_codex.md)**, using the small bridge script in [`codex/bridge.py`](codex/bridge.py) (~80 lines).
 
 ## Tips
 

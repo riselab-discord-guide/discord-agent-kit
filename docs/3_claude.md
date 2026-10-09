@@ -1,4 +1,4 @@
-# Step 2a: Claude Code + Discord
+# Step 3a: Claude Code + Discord
 
 Claude Code has an official Discord plugin, so you don't need any code from this repo.
 
