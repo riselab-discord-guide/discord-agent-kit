@@ -15,8 +15,9 @@ Why Discord?
 
 ## Setup (about 15 minutes)
 
-Steps 1 and 2 come with screenshots.
+Steps 0–2 come with screenshots.
 
+0. **[Make a Discord server](docs/0_discord_server.md)**, if you don't have one.
 1. **[Create a Discord bot](docs/1_discord_bot.md)** and add it to your server. You need one bot per agent.
 2. **[Get the bot token](docs/2_bot_token.md)** and your Discord user ID.
 3. Connect an agent:

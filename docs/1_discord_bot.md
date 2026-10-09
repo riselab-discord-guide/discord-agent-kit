@@ -1,10 +1,8 @@
 # Step 1: Create a Discord bot
 
-You need a Discord server and a bot for your agent to log in as. Make one bot per agent.
+Each agent logs in to Discord as a bot. Make one bot per agent.
 
-## 0. Make a server
-
-In Discord, click **+** on the left sidebar, then **Create My Own**. A private server just for you and your agents works well.
+You need a Discord server first. If you don't have one yet, follow [Step 0](0_discord_server.md).
 
 ## 1. Create a new application
 
